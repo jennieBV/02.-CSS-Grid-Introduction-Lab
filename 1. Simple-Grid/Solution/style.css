@@ -1,0 +1,11 @@
+div{
+    background: black;
+    color: white;
+    padding: 1rem;
+}
+.wrapper{
+    background-color: white;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr; 
+    grid-gap: 2rem;
+}
